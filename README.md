@@ -37,3 +37,6 @@ I'm an aspiring machine learning engineer <img src="https://media.giphy.com/medi
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vadim-le&theme=default&background=E6E6FA)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vadim-le&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
