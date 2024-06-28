@@ -3,23 +3,24 @@
 </div>
 <div id="badges" align="center">
   <a href="https://steamcommunity.com/id/NpueR/">
-    <img src="https://img.shields.io/badge/Steam-green?style=for-the-badge&logo=Steam&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Steam-green?style=for-the-badge&logo=Steam&logoColor=white" alt="Steam Badge"/>
   </a>
 </div>
 <div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vadim-le&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Vadim-le&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
-<h1>
-  hey there
+<h1 align="center">
+  Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-:man_technologist: About Me :
+
+### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql"  alt="Postgresql" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="Tensorflow"  alt="Tensorflow" width="50" height="50"/>&nbsp;
@@ -28,4 +29,3 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
 </div>
-
