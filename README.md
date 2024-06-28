@@ -33,4 +33,4 @@ I'm an aspiring machine learning engineer <img src="https://media.giphy.com/medi
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vadim-le&theme=light&background=#E6E6FA)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vadim-le&theme=Lavender&background=#E6E6FA)](https://git.io/streak-stats)
