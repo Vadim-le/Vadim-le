@@ -9,7 +9,7 @@
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=Vadim-le&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
-<h1 align="center">
+<h1>
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
@@ -20,7 +20,7 @@ I'm an aspiring machine learning engineer <img src="https://media.giphy.com/medi
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<div align="center">
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="Tensorflow"  alt="Tensorflow" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="50" height="50"/>&nbsp;
