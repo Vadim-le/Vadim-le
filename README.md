@@ -3,7 +3,7 @@
 </div>
 <div id="badges" align="center">
   <a href="https://steamcommunity.com/id/NpueR/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Steam&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Steam-blue?style=for-the-badge&logo=Steam&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 <div id="badges" align="center">
